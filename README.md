@@ -1,9 +1,3 @@
-﻿[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg?style=flat-square)](http://commitizen.github.io/cz-cli/)
-[![travis build](https://img.shields.io/travis/maxisam/angular2-clipboard.svg?style=flat-square)](https://travis-ci.org/maxisam/angular2-clipboard)
-[![npm](https://img.shields.io/npm/dt/angular2-clipboard.svg?style=flat-square)](https://www.npmjs.com/package/angular2-clipboard)
-[![GitHub release](https://img.shields.io/github/release/maxisam/angular2-clipboard.svg?style=flat-square)]()
-[![npm](https://img.shields.io/npm/l/angular2-clipboard.svg?style=flat-square)]()
-
 # angular2-clipboard
 
  Angular2  directive for [clipboard.js](http://zenorocha.github.io/clipboard.js/) by [@zenorocha](https://twitter.com/zenorocha)
