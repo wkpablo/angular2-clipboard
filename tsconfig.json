@@ -1,0 +1,41 @@
+﻿{
+    "compilerOptions": {
+        "emitDecoratorMetadata": true,
+        "experimentalDecorators": true,
+        "lib": [
+            "es6",
+            "dom"
+        ],
+        "module": "commonjs",
+        "moduleResolution": "node",
+        "noEmitOnError": false,
+        "noImplicitAny": false,
+        "removeComments": false,
+        "sourceMap": true,
+        "declaration": true,
+        "target": "es5"
+    },
+    "exclude": [
+        "node_modules",
+        "demo"
+    ],
+    "awesomeTypescriptLoaderOptions": {
+        "resolveGlobs": true,
+        "forkChecker": true
+    },
+    "filesGlob": [
+        "!./node_modules/**",
+        "src/custom-typings.d.ts",
+        "typings/browser.d.ts"
+    ],
+    "compileOnSave": true,
+    "buildOnSave": true,
+    "types": [
+        "core-js",
+        "node",
+        "clipboard"
+    ],
+    "typeRoots": [
+        "node_modules/@types"
+    ]
+}
